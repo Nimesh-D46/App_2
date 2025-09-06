@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home_pg"
+        android:title="Explore new"
+        android:icon="@drawable/explore"/>
+    <item
+        android:id="@+id/nav_Activity_pg"
+        android:title="Activities"
+        android:icon="@drawable/activities"/>
+    <item
+        android:id="@+id/nav_Tools_pg"
+        android:icon="@drawable/tools"
+        android:title="Tools and Resources" />
+    <item
+        android:id="@+id/nav_profile_pg"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Log out" />
+</menu>
